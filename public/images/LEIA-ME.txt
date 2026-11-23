@@ -1,0 +1,26 @@
+FOTOGRAFIAS DO SITE
+===================
+
+As fotos reais NÃO vêm dentro do .zip: elas são baixadas por um script que verifica a licença
+de cada uma no Wikimedia Commons (só CC0, domínio público, CC BY e CC BY-SA; nunca NC/ND),
+converte para WebP no tamanho certo e registra autor e licença.
+
+  npm run images              baixa tudo o que estiver faltando
+  npm run images -- --force   baixa de novo
+  npm run images -- --cutout  também recorta o fundo do drone do Hero
+                              (antes: npm i -D @imgly/background-removal-node)
+
+Resultado:
+  public/images/*.webp                fotos otimizadas
+  src/data/credits.generated.json     créditos usados pelo site (legendas e página /creditos)
+  CREDITOS-IMAGENS.md                 lista de autores, licenças e pendências
+
+A curadoria (quais fotos vão em cada lugar) fica em scripts/images.config.mjs.
+
+Reservado para fotos REAIS da equipe (não preencha com fotos de terceiros):
+  projeto-equipe.webp, galeria/bastidores.webp, galeria/equipe.webp
+
+Drone do Hero:
+  hero-drone-recorte.webp  (PNG/WebP com fundo transparente) -> melhor resultado
+  hero-drone.webp          (foto normal) -> aparece num "palco" com bordas fundidas
+  sem nenhum dos dois      -> o drone 3D do site aparece no lugar

@@ -1,0 +1,333 @@
+{
+  "hero-drone": {
+    "title": "DJI Agras T50 on ground.jpg",
+    "author": "Blervis",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:DJI_Agras_T50_on_ground.jpg",
+    "width": 4032,
+    "height": 3024,
+    "path": "/images/hero-drone.webp"
+  },
+  "manifesto-lavoura": {
+    "title": "Aerial view of agricultural fields in Punjab, India.jpg",
+    "author": "Bhullargraphic",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Aerial_view_of_agricultural_fields_in_Punjab,_India.jpg",
+    "width": 5280,
+    "height": 2970,
+    "viaSearch": true,
+    "path": "/images/manifesto-lavoura.webp"
+  },
+  "manifesto-drone": {
+    "title": "Agricultural drone in use on rice field near Nisoshi, Aomori.jpg",
+    "author": "Benlisquare",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Agricultural_drone_in_use_on_rice_field_near_Nisoshi,_Aomori.jpg",
+    "width": 6048,
+    "height": 4024,
+    "path": "/images/manifesto-drone.webp"
+  },
+  "compare-terrestre": {
+    "title": "Deutz-Fahr 5090.D5 mit Lochmann Spritze.jpg",
+    "author": "JoachimKohler-HB",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Deutz-Fahr_5090.D5_mit_Lochmann_Spritze.jpg",
+    "width": 4200,
+    "height": 2800,
+    "path": "/images/compare-terrestre.webp"
+  },
+  "compare-drone": {
+    "title": "Sprinkler drone.jpg",
+    "author": "Vis M",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sprinkler_drone.jpg",
+    "width": 9248,
+    "height": 6936,
+    "path": "/images/compare-drone.webp"
+  },
+  "projeto-campo": {
+    "title": "Plantaciones de Soja en área rural de Porto Mauá, RS.jpg",
+    "author": "Leandro Kibisz",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Plantaciones_de_Soja_en_%C3%A1rea_rural_de_Porto_Mau%C3%A1,_RS.jpg",
+    "width": 4320,
+    "height": 3240,
+    "viaSearch": true,
+    "path": "/images/projeto-campo.webp"
+  },
+  "projeto-planejamento": {
+    "title": "UAS Enhanced Agriculture NDVI.png",
+    "author": "Stoermerjp",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:UAS_Enhanced_Agriculture_NDVI.png",
+    "width": 854,
+    "height": 450,
+    "path": "/images/projeto-planejamento.webp"
+  },
+  "closing-aerea": {
+    "title": "Harvested fields at sunset in Pomar de Valdivia, Palencia.jpg",
+    "author": "Jesús Gómez Fernández",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Harvested_fields_at_sunset_in_Pomar_de_Valdivia,_Palencia.jpg",
+    "width": 3844,
+    "height": 2883,
+    "viaSearch": true,
+    "path": "/images/closing-aerea.webp"
+  },
+  "tec-rotas": {
+    "title": "Drone crop fertilizer.jpg",
+    "author": "Wikideas1",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Drone_crop_fertilizer.jpg",
+    "width": 1662,
+    "height": 2182,
+    "path": "/images/tec-rotas.webp"
+  },
+  "tec-acesso": {
+    "title": "UAV-IQ Conducting Drone Biological Control Operations in California.jpg",
+    "author": "Trusted user53",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:UAV-IQ_Conducting_Drone_Biological_Control_Operations_in_California.jpg",
+    "width": 4032,
+    "height": 3024,
+    "path": "/images/tec-acesso.webp"
+  },
+  "metodo-terrestre": {
+    "title": "Amazone field sprayer.jpg",
+    "author": "werktuigendagen",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Amazone_field_sprayer.jpg",
+    "width": 3888,
+    "height": 2592,
+    "path": "/images/metodo-terrestre.webp"
+  },
+  "metodo-drone": {
+    "title": "Sprinkler drone.jpg",
+    "author": "Vis M",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sprinkler_drone.jpg",
+    "width": 9248,
+    "height": 6936,
+    "path": "/images/metodo-drone.webp"
+  },
+  "equip-t50": {
+    "title": "DJI Agras T50 on ground.jpg",
+    "author": "Blervis",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:DJI_Agras_T50_on_ground.jpg",
+    "width": 4032,
+    "height": 3024,
+    "path": "/images/equip-t50.webp"
+  },
+  "galeria/rotores": {
+    "title": "DJI Agras T50 on ground.jpg",
+    "author": "Blervis",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:DJI_Agras_T50_on_ground.jpg",
+    "width": 4032,
+    "height": 3024,
+    "path": "/images/galeria/rotores.webp"
+  },
+  "galeria/rota": {
+    "title": "Sprinkler drone.jpg",
+    "author": "Vis M",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sprinkler_drone.jpg",
+    "width": 9248,
+    "height": 6936,
+    "path": "/images/galeria/rota.webp"
+  },
+  "hero-campo": {
+    "title": "Drone in Field (48743493743).jpg",
+    "author": "United Soybean Board",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Drone_in_Field_(48743493743).jpg",
+    "width": 6720,
+    "height": 4480,
+    "viaSearch": true,
+    "path": "/images/hero-campo.webp"
+  },
+  "equip-t100": {
+    "title": "DJI Agras T50 in flight.jpg",
+    "author": "Blervis",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:DJI_Agras_T50_in_flight.jpg",
+    "width": 4032,
+    "height": 3024,
+    "viaSearch": true,
+    "path": "/images/equip-t100.webp"
+  },
+  "equip-t25": {
+    "title": "DJI 3WWDZ-30A Agras T30 (N340RZ, cn 3U5BJ6P001008A) (4-9-2024).jpg",
+    "author": "ZLEA",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:DJI_3WWDZ-30A_Agras_T30_(N340RZ,_cn_3U5BJ6P001008A)_(4-9-2024).jpg",
+    "width": 6000,
+    "height": 4000,
+    "viaSearch": true,
+    "path": "/images/equip-t25.webp"
+  },
+  "equip-mapping": {
+    "title": "DJI - Drohne Mavic 4 Pro.JPG",
+    "author": "C.Stadler/Bwag",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:DJI_-_Drohne_Mavic_4_Pro.JPG",
+    "width": 5800,
+    "height": 3636,
+    "viaSearch": true,
+    "path": "/images/equip-mapping.webp"
+  },
+  "page-tecnologia": {
+    "title": "Sprinkler drone.jpg",
+    "author": "Vis M",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sprinkler_drone.jpg",
+    "width": 9248,
+    "height": 6936,
+    "path": "/images/page-tecnologia.webp"
+  },
+  "page-comparativo": {
+    "title": "Deutz-Fahr 5090.D5 mit Lochmann Spritze.jpg",
+    "author": "JoachimKohler-HB",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Deutz-Fahr_5090.D5_mit_Lochmann_Spritze.jpg",
+    "width": 4200,
+    "height": 2800,
+    "path": "/images/page-comparativo.webp"
+  },
+  "page-galeria": {
+    "title": "Dülmen, Kirchspiel, Dernekamp, Getreidefeld -- 2024 -- 0003.jpg",
+    "author": "Dietmar Rabich",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:D%C3%BClmen,_Kirchspiel,_Dernekamp,_Getreidefeld_--_2024_--_0003.jpg",
+    "width": 8064,
+    "height": 6048,
+    "viaSearch": true,
+    "path": "/images/page-galeria.webp"
+  },
+  "page-regulamentacao": {
+    "title": "DJI Agras T50 in flight.jpg",
+    "author": "Blervis",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:DJI_Agras_T50_in_flight.jpg",
+    "width": 4032,
+    "height": 3024,
+    "path": "/images/page-regulamentacao.webp"
+  },
+  "page-cursos": {
+    "title": "Drone Pilot.jpg",
+    "author": "Amuzujoe",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Drone_Pilot.jpg",
+    "width": 6016,
+    "height": 4016,
+    "viaSearch": true,
+    "path": "/images/page-cursos.webp"
+  },
+  "page-projeto": {
+    "title": "Agricultural Fields near Perdizes, Minas Gerais, Brazil.JPG",
+    "author": "ISS Expedition 26 crew",
+    "license": "Public domain",
+    "licenseUrl": "",
+    "source": "https://commons.wikimedia.org/wiki/File:Agricultural_Fields_near_Perdizes,_Minas_Gerais,_Brazil.JPG",
+    "width": 4288,
+    "height": 2850,
+    "viaSearch": true,
+    "path": "/images/page-projeto.webp"
+  },
+  "page-faq": {
+    "title": "Sunset-over-the-wheat-field-featured.jpg",
+    "author": "Dreamy Pixel",
+    "license": "CC BY 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Sunset-over-the-wheat-field-featured.jpg",
+    "width": 6000,
+    "height": 4912,
+    "viaSearch": true,
+    "path": "/images/page-faq.webp"
+  },
+  "galeria/drone-voo": {
+    "title": "Agricultural drone in use on rice field near Nisoshi, Aomori.jpg",
+    "author": "Benlisquare",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Agricultural_drone_in_use_on_rice_field_near_Nisoshi,_Aomori.jpg",
+    "width": 6048,
+    "height": 4024,
+    "path": "/images/galeria/drone-voo.webp"
+  },
+  "galeria/talhao-aereo": {
+    "title": "Drone crop fertilizer.jpg",
+    "author": "Wikideas1",
+    "license": "CC0",
+    "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "source": "https://commons.wikimedia.org/wiki/File:Drone_crop_fertilizer.jpg",
+    "width": 1662,
+    "height": 2182,
+    "path": "/images/galeria/talhao-aereo.webp"
+  },
+  "galeria/dji-pilot": {
+    "title": "UAS Enhanced Agriculture NDVI.png",
+    "author": "Stoermerjp",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:UAS_Enhanced_Agriculture_NDVI.png",
+    "width": 854,
+    "height": 450,
+    "path": "/images/galeria/dji-pilot.webp"
+  },
+  "galeria/demonstracao": {
+    "title": "DJI Agriculture, Agritechnica 2023, Hanover (P1160331).jpg",
+    "author": "MB-one",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:DJI_Agriculture,_Agritechnica_2023,_Hanover_(P1160331).jpg",
+    "width": 4608,
+    "height": 3456,
+    "path": "/images/galeria/demonstracao.webp"
+  },
+  "galeria/abastecimento": {
+    "title": "Delvano sprayers.jpg",
+    "author": "werktuigendagen",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Delvano_sprayers.jpg",
+    "width": 2560,
+    "height": 1920,
+    "path": "/images/galeria/abastecimento.webp"
+  },
+  "galeria/teste": {
+    "title": "UAV-IQ Conducting Drone Biological Control Operations in California.jpg",
+    "author": "Trusted user53",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:UAV-IQ_Conducting_Drone_Biological_Control_Operations_in_California.jpg",
+    "width": 4032,
+    "height": 3024,
+    "path": "/images/galeria/teste.webp"
+  }
+}
