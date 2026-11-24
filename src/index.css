@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Estilos gerais do site */
+body {
+  @apply bg-white font-sans text-texto antialiased;
+}
+
+/* Classes reaproveitadas em todas as páginas */
+@layer components {
+  /* largura máxima do conteúdo, centralizado */
+  .container-site { @apply mx-auto w-full max-w-6xl px-5; }
+  /* espaçamento vertical de cada seção */
+  .secao { @apply py-14 sm:py-16; }
+  /* título de seção */
+  .titulo { @apply text-2xl font-bold text-verde sm:text-3xl; }
+  /* subtítulo dentro de uma seção */
+  .subtitulo { @apply text-lg font-bold text-verde; }
+  /* parágrafo padrão */
+  .paragrafo { @apply mt-4 leading-relaxed text-texto/80; }
+  /* foto padrão */
+  .foto { @apply w-full rounded-lg object-cover; }
+  /* botão verde */
+  .botao { @apply inline-block rounded-md bg-destaque px-5 py-3 font-semibold text-white hover:bg-verde; }
+}
